@@ -1,0 +1,7 @@
+name: my-env
+channels:
+  - conda-forge
+dependencies:
+  - contextily=1.7.1
+  - numpy=2.4.6
+prefix: /home/katefrankland/.conda/envs/my-env
